@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "c:\\Users\\mjones\\Bridgecrest\\POCs\\TestPDFSystem\\wwwroot\\fonts\\ARIAL.TTF",
+      "PackagePath": "staticwebassets\\fonts\\ARIAL.TTF"
+    },
+    {
+      "Id": "c:\\Users\\mjones\\Bridgecrest\\POCs\\TestPDFSystem\\wwwroot\\fonts\\ARIALBD.TTF",
+      "PackagePath": "staticwebassets\\fonts\\ARIALBD.TTF"
+    },
+    {
+      "Id": "c:\\Users\\mjones\\Bridgecrest\\POCs\\TestPDFSystem\\wwwroot\\fonts\\ARIALBI.TTF",
+      "PackagePath": "staticwebassets\\fonts\\ARIALBI.TTF"
+    },
+    {
+      "Id": "c:\\Users\\mjones\\Bridgecrest\\POCs\\TestPDFSystem\\wwwroot\\fonts\\ARIALI.TTF",
+      "PackagePath": "staticwebassets\\fonts\\ARIALI.TTF"
+    },
+    {
+      "Id": "c:\\Users\\mjones\\Bridgecrest\\POCs\\TestPDFSystem\\wwwroot\\fonts\\ARIALN.TTF",
+      "PackagePath": "staticwebassets\\fonts\\ARIALN.TTF"
+    },
+    {
+      "Id": "c:\\Users\\mjones\\Bridgecrest\\POCs\\TestPDFSystem\\wwwroot\\fonts\\ARIALNB.TTF",
+      "PackagePath": "staticwebassets\\fonts\\ARIALNB.TTF"
+    },
+    {
+      "Id": "c:\\Users\\mjones\\Bridgecrest\\POCs\\TestPDFSystem\\wwwroot\\fonts\\ARIALNBI.TTF",
+      "PackagePath": "staticwebassets\\fonts\\ARIALNBI.TTF"
+    },
+    {
+      "Id": "c:\\Users\\mjones\\Bridgecrest\\POCs\\TestPDFSystem\\wwwroot\\fonts\\ARIALNI.TTF",
+      "PackagePath": "staticwebassets\\fonts\\ARIALNI.TTF"
+    },
+    {
+      "Id": "c:\\Users\\mjones\\Bridgecrest\\POCs\\TestPDFSystem\\wwwroot\\fonts\\ARIBLK.TTF",
+      "PackagePath": "staticwebassets\\fonts\\ARIBLK.TTF"
+    },
+    {
+      "Id": "c:\\Users\\mjones\\Bridgecrest\\POCs\\TestPDFSystem\\wwwroot\\fonts\\VERDANA.TTF",
+      "PackagePath": "staticwebassets\\fonts\\VERDANA.TTF"
+    },
+    {
+      "Id": "c:\\Users\\mjones\\Bridgecrest\\POCs\\TestPDFSystem\\wwwroot\\fonts\\VERDANAB.TTF",
+      "PackagePath": "staticwebassets\\fonts\\VERDANAB.TTF"
+    },
+    {
+      "Id": "c:\\Users\\mjones\\Bridgecrest\\POCs\\TestPDFSystem\\wwwroot\\fonts\\VERDANAI.TTF",
+      "PackagePath": "staticwebassets\\fonts\\VERDANAI.TTF"
+    },
+    {
+      "Id": "c:\\Users\\mjones\\Bridgecrest\\POCs\\TestPDFSystem\\wwwroot\\fonts\\VERDANAZ.TTF",
+      "PackagePath": "staticwebassets\\fonts\\VERDANAZ.TTF"
+    },
+    {
+      "Id": "c:\\Users\\mjones\\Bridgecrest\\POCs\\TestPDFSystem\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TestPDFSystem.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TestPDFSystem.props",
+      "PackagePath": "build\\TestPDFSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TestPDFSystem.props",
+      "PackagePath": "buildMultiTargeting\\TestPDFSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TestPDFSystem.props",
+      "PackagePath": "buildTransitive\\TestPDFSystem.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
