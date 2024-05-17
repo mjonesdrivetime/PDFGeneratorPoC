@@ -27,16 +27,9 @@ namespace MyApp.Namespace
         {
             MyFontResolver.Apply();
 
-            string customerFirstName = "Jane";
-            string customerLastName = "Smith";
-
-            string oldYear = "2017";
-            string oldMake = "Ford";
-            string oldModel = "F-150";
-
-            string newYear = "2020";
-            string newMake = "Chevrolet";
-            string newModel = "Tahoe";
+            string customerFirstName = "Jane", customerLastName = "Smith";
+            string oldYear = "2017", oldMake = "Ford", oldModel = "F-150";
+            string newYear = "2020", newMake = "Chevrolet", newModel = "Tahoe";
 
             LoanLetter letter = new();
             letter.SetFont(SupportedFonts.Arial);
@@ -61,13 +54,12 @@ namespace MyApp.Namespace
                 letter.AddBoldBodyParagraph(paragraphAncillary);
             }
 
-            string phoneNumber = "(123) 456-7890";
-            string paragraph4 = $"If you have any questions about your refund or your account, please contact Bridgecrest at {phoneNumber}.";
+            string paragraph4 = $"If you have any questions about your refund or your account, please contact Bridgecrest at {ConfigRoot["BridgecrestPhoneNumber"]}.";
             letter.AddBodyParagraph(paragraph4);
 
             letter.AddBodyParagraph("You can also log into your account on our website or the Bridgecrest app to view your account details.");
             letter.AddBodyParagraph("We appreciate your business and look forward to continuing our journey together with you on the road to vehicle ownership!");
-            letter.AddSignatureLine("The Bridgecrest Team");
+            letter.AddClosing("The Bridgecrest Team");
 
             var stream = letter.RenderDocument();
 

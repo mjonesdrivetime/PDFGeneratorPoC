@@ -46,7 +46,7 @@ public class LoanLetter
 
         AddBlankParagraphs();
 
-        AddParagraph("", Formats.Border());
+        AddParagraph(string.Empty, Formats.Border());
 
         AddBlankParagraphs();
     }
@@ -110,7 +110,7 @@ public class LoanLetter
         }while( i <= count);
     }
 
-    public void AddSignatureLine(string name)
+    public void AddClosing(string name)
     {
         AddBlankParagraphs();
         AddParagraph("Sincerely,", Formats.SingleLine());

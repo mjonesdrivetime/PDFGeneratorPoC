@@ -245,3 +245,4 @@ c:\Users\mjones\Bridgecrest\POCs\TestPDFSystem\bin\Debug\net8.0\FontStashSharp.B
 c:\Users\mjones\Bridgecrest\POCs\TestPDFSystem\bin\Debug\net8.0\FontStashSharp.Rasterizers.StbTrueTypeSharp.dll
 c:\Users\mjones\Bridgecrest\POCs\TestPDFSystem\bin\Debug\net8.0\StbImageSharp.dll
 c:\Users\mjones\Bridgecrest\POCs\TestPDFSystem\bin\Debug\net8.0\StbTrueTypeSharp.dll
+c:\Users\mjones\Bridgecrest\POCs\TestPDFSystem\obj\Debug\net8.0\TestPDFSystem.sourcelink.json
